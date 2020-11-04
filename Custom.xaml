@@ -1,7 +1,7 @@
 ﻿<local:MyCard Title="欢迎使用网格整合" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
 		<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
-                   Text="版本：1.16.4 v1.0" />
+                   Text="版本：1.16.4 v1.1" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,10"
                    Text="整合包已自带常用MOD、材质包和光影" />
 		<local:MyButton Margin="0,8,0,2" Width="200" Height="35" HorizontalAlignment="Center" Padding="13,0,13,0" ColorType="Highlight"
